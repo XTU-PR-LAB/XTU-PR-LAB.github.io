@@ -8,7 +8,7 @@ FixUnDepth to fix defect of photometric loss for monocular
 depth estimation.'
 date: 2022-10-01
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
-paperurl: 'http://academicpages.github.io/files/Fixing.pdf'
+paperurl: 'https://xtu-pr-lab.github.io/files/Fixing.pdf'
 citation: '	Shu Chen, Zhengdong Pu, Xiang Fan, Beiji Zou. Fixing Defect of Photometric Loss for Self-Supervised Monocular Depth Estimation. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(3): 1328-1338.'
 ---
 
