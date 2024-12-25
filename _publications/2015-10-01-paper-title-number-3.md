@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Structure-Aware Neural Radiance Fields without Posed Camera"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+excerpt: 'Our approach allows for novel view synthesis without posed camera'
+date: 2024-03-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://xtu-pr-lab.github.io/files/Structure-aware.pdf'
+citation: 'Shu Chen, Yang Zhang, Yaxin Xu, Beiji Zou. Structure-Aware Neural Radiance Fields without Posed Camera. Pattern Recognition, 151 (2024) 110419: 1-14.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
