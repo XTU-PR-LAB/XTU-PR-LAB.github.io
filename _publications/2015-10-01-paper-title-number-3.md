@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Our approach allows for novel view synthesis without posed camera'
 date: 2024-03-01
-venue: 'Journal 1'
+venue: 'Pattern Recognition'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://xtu-pr-lab.github.io/files/Structure-aware.pdf'
 citation: 'Shu Chen, Yang Zhang, Yaxin Xu, Beiji Zou. Structure-Aware Neural Radiance Fields without Posed Camera. Pattern Recognition, 151 (2024) 110419: 1-14.'
