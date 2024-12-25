@@ -7,7 +7,7 @@ excerpt: 'This paper proposed a combination of template warping
 and SIFT-correspondence approach for 3D pose estimation'
 date: 2016-10-01
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
-paperurl: https://xtu-pr-lab.github.io/files/3DPose.pdf'
+paperurl: https://xtu-pr-lab.github.io/files/3DPose.pdf
 citation: '	Shu Chen, Luming Liang, Wenzhang Liang, Hassan Foroosh. 3D Pose Tracking with Multitemplate Warping and SIFT Correspondences. IEEE Transactions on Circuits and Systems for Video Technology, 2016, 26(11): 2043-2055.'
 ---
 
