@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [School of ICSE](https://icse.uestc.edu.cn/), [UESTC](https://uestc.edu.cn/). My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
+I'm a professor from [School of Computer Science](https://jwxy.xtu.edu.cn/), [Xiangtan University](https://www.xtu.edu.cn/). My research interest includes computer vision, pattern recognition, and deep learning.
