@@ -3,7 +3,7 @@ title: "Automatic Reconstruction of 3D Human Motion Pose from Uncalibrated Monoc
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-pattern-recognition-number 
-excerpt: 'This paper present a method to reconstruct human motion pose from uncalibrated monocular video sequences
+excerpt: 'This paper presents a method to reconstruct human motion pose from uncalibrated monocular video sequences
 based on the morphing appearance model matching'
 date: 2009-10-01
 venue: 'Pattern Recognition'
