@@ -3,7 +3,7 @@ title: "Fixing Defect of Photometric Loss for Self-Supervised Monocular Depth Es
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper propose an unsupervised learning framework
+excerpt: 'This paper proposed an unsupervised learning framework
 FixUnDepth to fix defect of photometric loss for monocular
 depth estimation.'
 date: 2022-10-01
